@@ -37,9 +37,18 @@ This project aims to provide an overview of the Discrete Cosine Transform (DCT) 
 Showcasing the impact of different compression levels on the number of coefficients different from zero.
 
 (a) 100 coefficients different from zero
-(b) 400 coefficients different from zero
-...
-(h) 65536 coefficients different from zero
+![Res1](images/res1.png)
 
+(b) 400 coefficients different from zero
+![Res2](images/res2.png)
+
+(b) 1600 coefficients different from zero
+![Res3](images/res3.png)
+
+(b) 6400 coefficients different from zero
+![Res4](images/res4.png)
+
+(h) 65536 coefficients different from zero
+![Res5](images/res5.png)
 
 
